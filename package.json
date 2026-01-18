@@ -1,0 +1,19 @@
+{
+  "name": "week-5-news-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://dannyjive.github.io/NewsAPI",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.13.0"
+  }
+}

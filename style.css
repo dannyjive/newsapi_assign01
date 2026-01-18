@@ -1,0 +1,15 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.card.rounded-4 {
+  border-radius: .5rem; /* Adjust the value as needed */
+}
